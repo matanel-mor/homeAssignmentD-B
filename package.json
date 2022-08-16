@@ -1,0 +1,16 @@
+{
+  "name": "dan-and-breadstreet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy:run": "cypress run --browser chrome --headless",
+    "test": "cy:run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.5.0"
+  }
+}
